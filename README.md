@@ -1,4 +1,4 @@
-kafka-startup
+kafka-0.7.2 startup
 =============
 
-Kafka Starup
+Kafka 0.7.2 Starup
